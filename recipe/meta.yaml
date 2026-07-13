@@ -21,7 +21,7 @@ requirements:
     - setuptools
   run:
     - matplotlib-base
-    - pydata-sphinx-theme >=0.10.0
+    - pydata-sphinx-theme ==0.18.*
     - python >={{ python_min }}
     - sphinx-design
     
