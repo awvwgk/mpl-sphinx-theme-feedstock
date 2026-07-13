@@ -23,6 +23,8 @@ requirements:
     - matplotlib-base
     - pydata-sphinx-theme >=0.10.0
     - python >={{ python_min }}
+    - sphinx-design
+    
 
 test:
   imports:
